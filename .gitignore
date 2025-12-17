@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+eyvenv/
+venv/
+.env
+
+# Database files
+*.db
+
+# PDF outputs
+sanction_letters/
+
+# OS files
+.DS_Store
+Thumbs.db
